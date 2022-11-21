@@ -1,0 +1,118 @@
+{
+  "administracao": [
+    {
+      "id": 1,
+      "name": "Mindset.",
+      "autor": "Carol S. Dweck."
+    },
+    {
+      "id": 2,
+      "name": "Mais esperto que o Diabo.",
+      "autor": "Napoleon Hill."
+    },
+    {
+      "id": 3,
+      "name": "Os segredos damente milionária.",
+      "autor": "T. Harv Eker."
+    },
+    {
+      "id": 4,
+      "name": "O poder do hábito.",
+      "autor": "Charles Duhigg."
+    },
+    {
+      "id": 5,
+      "name": "Como fazer amigos e influenciar pessoas.",
+      "autor": "Dale Carnegie."
+    },
+    {
+      "id": 6,
+      "name": "O monge e o executivo.",
+      "autor": "James C. Hunter."
+    }
+  ],
+  "programacao": [
+    {
+      "id": 1,
+      "name": "Código Limpo: Habilidades práticas do Agile Software.",
+      "autor": "Robert C. Martin."
+    },
+    {
+      "id": 2,
+      "name": "Javascript: O Guia Definitivo.",
+      "autor": "David Flanagan."
+    },
+    {
+      "id": 3,
+      "name": "Arquitetura limpa: O guia do artesão para estrutura e design de software.",
+      "autor": "Robert C. Martin."
+    },
+    {
+      "id": 4,
+      "name": "O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software.",
+      "autor": "Chad Fowler."
+    },
+    {
+      "id": 5,
+      "name": "React - Aprenda Praticando.",
+      "autor": "Maurício Samy Silva."
+    }
+  ],
+  "literatura": [
+    {
+      "id": 1,
+      "name": "O Conde de Monte-Cristo.",
+      "autor": "Alexandre Dumas."
+    },
+    {
+      "id": 2,
+      "name": "A revolução dos bichos.",
+      "autor": "George Orwell."
+    },
+    {
+      "id": 3,
+      "name": "It: A coisa.",
+      "autor": "Stephen King."
+    },
+    {
+      "id": 4,
+      "name": "O Príncipe.",
+      "autor": "Nicolau Maquiavel."
+    },
+    {
+      "id": 5,
+      "name": "O iluminado.",
+      "autor": "Stephen King."
+    }
+  ],
+  "biografia": [
+    {
+      "id": 1,
+      "name": "O diário de Anne Frank.",
+      "autor": "Anne Frank."
+    },
+    {
+      "id": 2,
+      "name": "O rei dos dividendos.",
+      "autor": "Luiz Barsi Filho."
+    },
+    {
+      "id": 3,
+      "name": "A Arte da Guerra.",
+      "autor": "Sun Tzu."
+    },
+    {
+      "id": 4,
+      "name": "Van Gogh.",
+      "autor": "Steven Naifeh."
+    },
+    {
+      "id": 5,
+      "name": "A bola de neve: Warren Buffett e o negócio da vida .",
+      "autor": "Alice Schroeder."
+    }
+  ],
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
